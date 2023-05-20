@@ -1,4 +1,5 @@
 # TESTE
 testando github
 ## Testando comandos
-* utilizando pull
+* utilizando push
+* utilizando pull no repositório 
